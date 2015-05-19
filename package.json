@@ -1,0 +1,33 @@
+{
+  "name": "docvy-updater",
+  "version": "0.0.0",
+  "description": "The Docvy Updater",
+  "main": "lib/updater.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/docvy/updater.git"
+  },
+  "keywords": [
+    "docvy",
+    "updater"
+  ],
+  "author": "GochoMugo <mugo@forfuture.co.ke>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docvy/updater/issues"
+  },
+  "homepage": "https://github.com/docvy/updater",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-clean": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-mocha-test": "latest",
+    "istanbul": "latest",
+    "should": "latest"
+  }
+}

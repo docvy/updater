@@ -21,6 +21,12 @@
   },
   "homepage": "https://github.com/docvy/updater",
   "dependencies": {
+    "async": "latest",
+    "debug": "latest",
+    "docvy-utils": "docvy/utils#develop",
+    "github": "latest",
+    "semver-diff": "latest"
+    
   },
   "devDependencies": {
     "grunt": "latest",
